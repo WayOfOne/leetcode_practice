@@ -2,9 +2,9 @@
 
 - [x] Week 1: July 24th
   - Arrays and Hashing
-    - [ ] Contains Duplicate
-    - [ ] Two Sum
-    - [ ] Product of Array Except Self
+    - [x] Contains Duplicate
+    - [x] Two Sum
+    - [x] Product of Array Except Self
     - [ ] Longest Consecutive Sequence
     - [ ] Group Anagrams
   - Two Pointers:
