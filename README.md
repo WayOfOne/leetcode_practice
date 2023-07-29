@@ -3,4 +3,4 @@
 - [Leetcode list](https://leetcode.com/list/xoqag3yj/)
 - [Neetcode 150](https://neetcode.io/practice)
 
-2023 Schedule:
+[2023 Schedule](./2023/schedule.md)

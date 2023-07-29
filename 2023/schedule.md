@@ -1,24 +1,61 @@
 # 2023 Schedule
 
+## This is a shortened version of Neetcode 150 that consists of 9 weeks 10 problems a week
+
 - [x] Week 1: July 24th
   - Arrays and Hashing
     - [x] Contains Duplicate (easy)
     - [x] Two Sum (easy)
-    - [x] Product of Array Except Self
-    - [ ] Longest Consecutive Sequence
-    - [x] Group Anagrams (medium)
+    - [x] Product of Array Except Self (medium)
+    - [ ] Longest Consecutive Sequence (medium)
+    - [x] Group Anagrams (medium) (medium)
   - Two Pointers:
-    - [x] Valid Palindrome
-    - [ ] Two Sum II Input Array is Sorted
-    - [ ] 3Sum
+    - [x] Valid Palindrome (easy)
+    - [ ] Two Sum II Input Array is Sorted (medium)
+    - [ ] 3Sum (medium)
     - [ ] Container with Most Water (medium)
     - [ ] Trapping Rain water (hard)
 - [ ] Week 2:
+  - Stack
+    - [ ] Valid Parentheses
+    - [ ] Min Stack
+    - [ ] Generate Parentheses
+    - [ ] Daily Temperatures
+    - [ ] Largest Rectangle in Histogram
+  - Binary Search
+    - [ ] Binary Search
+    - [ ] Search a 2D matrix
+    - [ ] Koko eating bananas
+    - [ ] Search in rotated sorted array
+    - [ ] Median of two sorted arrays
 - [ ] Week 3
+  - Sliding Windows
+    - [ ] Best Time to Buy and Sell Stock
+    - [ ] Longest Substring Without Repeating Characters
+    - [ ] Permutation in String
+    - [ ] Minimum Window Substring
+    - [ ] Sliding Window Maximum
+  - Linked List
+    - [ ] Merge Two Sorted Lists
+    - [ ] Add Two Numbers
+    - [ ] Find the Duplicate Number
+    - [ ] Merge K Sorted Lists
+    - [ ] Reverse Nodes in K Groups
 - [ ] Week 4
+  - Trees
+    - [ ] Invert Binary Tree
+    - [ ] Diameter of Binary Tree
+    - [ ] Validate Binary Search Tree
+    - [ ] Binary Tree Level Order Traversal
+    - [ ] Lowest Common Ancestor of a Binary Search Tree
+    - [ ] Binary Tree Maximum Path Sum
+    - [ ] Serialize And Deserialize Binary Tree
+  - Tries
+    - [ ] Implement Trie Prefix Tree
+    - [ ] Design Add And Search Words Data Structure
+    - [ ] Word Search II
 - [ ] Week 5
 - [ ] Week 6
 - [ ] Week 7
 - [ ] Week 8
 - [ ] Week 9
-  

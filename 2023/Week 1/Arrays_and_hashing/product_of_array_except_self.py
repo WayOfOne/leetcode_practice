@@ -9,10 +9,14 @@ class Solution:
     left = [1] * size
     right = [1] * size
 
+    # list of products of all elements to the left of i
+    # left[0] = 1 by default
     for i in range(1, size):
         left[i] = left[i - 1] * nums[i - 1]
 
+    # list of products of all elements to the right of i
     for i in range(size - 2, -1, -1):
         right[i] = right[i + 1] * nums[i + 1]
 
+    # multiply the two lists
     return [left[i] * right[i] for i in range(size)]

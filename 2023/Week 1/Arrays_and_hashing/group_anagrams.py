@@ -3,6 +3,8 @@
 
 # O(m * nlogn) where m is list size and n is word length
 # can probably speed it up to make a dict of alphabet letters instead of sorting
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         result = defaultdict(list)
