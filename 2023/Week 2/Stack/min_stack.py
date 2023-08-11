@@ -2,15 +2,16 @@
 # can't use a min heap/priority queue here since the getMin is supposed to be O(1)
 
 class MinStack:
-    
+
     def __init__(self):
-        data = []
-        mins = []
+        self.data = []
+        self.mins = []
 
     def push(self, val: int) -> None:
-        # if the new value is less than the current min, add it to the mins list\
+        # if the new value is less than or equal to the current min (need this to handle tie breaks)
+        # add it to the mins list
         # otherwise, add the current min to the mins list
-        if len(self.mins) == 0 or val < self.mins[-1]:
+        if len(self.mins) == 0 or val <= self.mins[-1]:
             self.mins.append(val)
         self.data.append(val)
 
@@ -24,9 +25,7 @@ class MinStack:
         return self.data[-1]
 
     def getMin(self) -> int:
-        return self.mins[-1]
-        
-        
+        return self.mins[-1] 
 
 
 # Your MinStack object will be instantiated and called as such:
