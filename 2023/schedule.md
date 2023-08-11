@@ -17,13 +17,13 @@
     - [ ] Trapping Rain water (hard)
 - [ ] Week 2:
   - Stack
-    - [ ] Valid Parentheses
-    - [ ] Min Stack
-    - [ ] Generate Parentheses
-    - [ ] Daily Temperatures
-    - [ ] Largest Rectangle in Histogram
+    - [x] Valid Parentheses (easy)
+    - [x] Min Stack (medium)
+    - [ ] Generate Parentheses (medium)
+    - [ ] Daily Temperatures (medium)
+    - [ ] Largest Rectangle in Histogram (hard)
   - Binary Search
-    - [ ] Binary Search
+    - [x] Binary Search (easy)
     - [ ] Search a 2D matrix
     - [ ] Koko eating bananas
     - [ ] Search in rotated sorted array
