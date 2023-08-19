@@ -24,8 +24,8 @@
     - [ ] Largest Rectangle in Histogram (hard)
   - Binary Search
     - [x] Binary Search (easy)
-    - [ ] Search a 2D matrix
-    - [ ] Koko eating bananas
+    - [ ] Search a 2D matrix (medium)
+    - [ ] Koko eating bananas (medium)
     - [ ] Search in rotated sorted array
     - [ ] Median of two sorted arrays
 - [ ] Week 3
