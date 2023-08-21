@@ -1,10 +1,10 @@
-# useful to graph this example out to visualize it
+# Easy question: useful to graph this example out to visualize it
 
 from typing import List
 
 
 class Solution:
-
+    # O(n) solution since we just loop through the list once
     def maxProfit(self, prices: List[int]) -> int:
         # profits are only values 0 or greater
         profit = 0
